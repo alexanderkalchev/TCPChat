@@ -1,0 +1,7 @@
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\bin\Release\TCPClient.exe.config
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\bin\Release\TCPClient.exe
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\bin\Release\TCPClient.pdb
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\obj\Release\TCPClient.csproj.AssemblyReference.cache
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\obj\Release\TCPClient.csproj.CoreCompileInputs.cache
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\obj\Release\TCPClient.exe
+F:\ИНФОРМАТИКА\TCPChat\TCPClient\obj\Release\TCPClient.pdb

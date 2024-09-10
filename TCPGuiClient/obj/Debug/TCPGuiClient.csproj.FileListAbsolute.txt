@@ -1,0 +1,17 @@
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPGuiClient.exe.config
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPGuiClient.exe
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPGuiClient.pdb
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.csproj.AssemblyReference.cache
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.Form1.resources
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.Properties.Resources.resources
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.csproj.GenerateResource.cache
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.csproj.CoreCompileInputs.cache
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.exe
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.pdb
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPClient.exe
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPClient.pdb
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPClient.exe.config
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\obj\Debug\TCPGuiClient.csproj.CopyComplete
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPServer.exe
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPServer.pdb
+F:\ИНФОРМАТИКА\TCPChat\TCPGuiClient\bin\Debug\TCPServer.exe.config
