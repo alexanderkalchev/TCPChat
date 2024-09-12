@@ -58,6 +58,12 @@ namespace TCPGuiClient
                 MessageBox.Show("Username or server blank!");
             }
         }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            MessageBox.Show(client.clientSocket.Connected.ToString());
+            e.Cancel = true;
+        }
     }
 
     public class TCPClient
@@ -104,9 +110,7 @@ namespace TCPGuiClient
             {
                 int recievedSize = clientSocket.Receive(buffer, SocketFlags.None);
                 Array.Resize(ref buffer, recievedSize);
-                //string res = Encoding.ASCII.GetString(buffer);
                 TCPServer.Message msg = TCPServer.Message.DeserializeMessage(buffer);
-                //Console.WriteLine(res);
                 MsgBox.Text += $"[{msg.Sender}]: {msg.Value}\n";
                 Array.Resize(ref buffer, 1024);
             }
